@@ -8,3 +8,6 @@ recovery_java_backup/
 recovery_test_backup/
 recovery_txt_backup/
 src/main/resources/application.properties
+frontend/node_modules/
+frontend/dist/
+frontend/.env
